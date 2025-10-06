@@ -359,7 +359,7 @@ body {
 .banner-container {
     position: relative;
     min-height: 100vh;
-    display: grid;
+    margin-top:10px;
     align-items: center;
 }
 .banner-text {
